@@ -1,2 +1,2 @@
-# Generic_array_list1
+# Generic Array List1
 Javafx Generic Array List GUI
