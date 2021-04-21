@@ -1,7 +1,10 @@
+<p align="center">
 
-## Welcome to Generic Array List1
+<h1>Welcome to Generic Array List1</h1>
 
-![main image <>](/images/main_image.jpg)
+<img src=/images/main_image.jpg>
+
+</p>
 
 ### Using this GUI is as follows:
 
