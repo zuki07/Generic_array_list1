@@ -7,47 +7,46 @@
 
 <h2 align="center">Using this GUI is as follows:</h2>
 
-<ol align="cneter">
-  1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
-  <br>
-  <p align="center">
-  <img src=/images/number_type.jpg>
-  </p>
+<ol>
+  <li align="center">
+    1.Click on either DOUBLE, INTEGER or FLOAT to select the data type.
+  <p align="center"><img src=/images/number_type.jpg></p>
   <!-- ![number image](/images/number_type.jpg "Selecting Number Type") -->
-  <br>
-  2. Click in the text box to start typing in a number.
-  <br>
-  <p align="center">
-  <img src=/images/add_number.jpg>
-  </p>
-  <!-- ![add number image](/images/add_number.jpg "Typing in the textbox") -->
-  <br>
-  3. Either click the ADD button or press enter on the keyboard will add the value to the array list.
-  <br>
-  <p align="center">
-  <img src=/images/added.jpg>
-  </p>
-  <!-- ![added image](/images/added.jpg "Value added") -->
-  <br>
-  4. Repeat steps 2 and 3 until you are satisfied with how many values are in the array list.
+  </li>
 
-      - As items are added, they will be displayed.
-    <p align="center">
-    <img src=/images/add_more_numbers.jpg>
-    </p>
+  <li align="center">
+    2.Click in the text box to start typing in a number.
+
+  <p align="center"><img src=/images/add_number.jpg></p>
+  <!-- ![add number image](/images/add_number.jpg "Typing in the textbox") -->
+  </li>
+
+  <li align="center">
+    3.Either click the ADD button or press enter on the keyboard will add the value to the array list.
+
+    <p align="center"><img src=/images/added.jpg></p>
+  <!-- ![added image](/images/added.jpg "Value added") -->
+  </li>
+
+  <li align="center">
+    4.Repeat steps 2 and 3 until you are satisfied with how many values are in the array list.
+
+        - As items are added, they will be displayed.
+    <p align="center"><img src=/images/add_more_numbers.jpg></p>
   <!-- ![add more numbers image](/images/add_more_numbers.jpg "Add more values") -->
-  <br>
-  5. Press the CALCULATE button will display the largest, smallest, total and average from the array list.
-  <p align="center">
-  <img src=/images/calculate.jpg>
-  </p>
-  <!-- ![calculate image](/images/calculate.jpg "Calculate array list") -->
-  <br>
-  6. Pressing the CLEAR button will empty the array list allowing you to start over.
-  <p align="center">
-  <img src=/images/clear.jpg>
-  </p>
-  <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
+  </li>
+
+  <li align="center">
+    5.Press the CALCULATE button will display the largest, smallest, total and average from the array list.
+    <p align="center"><img src=/images/calculate.jpg></p>
+    <!-- ![calculate image](/images/calculate.jpg "Calculate array list") -->
+  </li>
+
+  <li align="center">
+    6.Pressing the CLEAR button will empty the array list allowing you to start over.
+    <p align="center"><img src=/images/clear.jpg></p>
+    <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
+  </li>
 </ol>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
