@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1>Welcome to Generic Array List1<h1>
+  <h1 align="center">Welcome to Generic Array List1<h1>
   <br>
   <img src="/images/main_image.jpg">
 
