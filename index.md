@@ -1,10 +1,11 @@
 <p align="center">
 
-  ## Welcome to Generic Array List1
+  <h1>Welcome to Generic Array List1<h1>
+  <br>
+  <img src="/images/main_image.jpg">
 
-  ![main image](/images/main_image.jpg)
-
-  ### Using this GUI is as follows:
+  <h2>Using this GUI is as follows:</h2>
+  <br>
 
   ```markdown
   1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
