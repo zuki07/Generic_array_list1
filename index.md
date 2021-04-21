@@ -1,14 +1,14 @@
+
+<h1 align="center">Welcome to Generic Array List1</h1>
+
 <p align="center">
-
-<h1>Welcome to Generic Array List1</h1>
-
 <img src=/images/main_image.jpg>
-
 </p>
 
-### Using this GUI is as follows:
 
-```markdown
+<h2 align="center">Using this GUI is as follows:</h2>
+
+<!-- ```markdown
 1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
 ```
 ![number image](/images/number_type.jpg "Selecting Number Type")
@@ -38,7 +38,7 @@
 ```markdown
 6. Pressing the CLEAR button will empty the array list allowing you to start over.
 ```
-![clear image](/images/clear.jpg "Clearing everything")
+![clear image](/images/clear.jpg "Clearing everything") -->
 
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
