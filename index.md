@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Generic Array List1
 
-You can use the [editor on GitHub](https://github.com/zuki07/Generic_array_list1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Using this GUI is as follows:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
+2. Click in the text box to start typing in a number.
+3. Either click the ADD button or press enter on the keyboard will add the value to the array list.
+4. Repeat steps 2 and 3 until you are satisfied with how many values are in the array list.
+      *As items are added, they will be displayed.
+5. Press the CALCULATE button will display the largest, smallest, total and average from the array list.
+6. Pressing the CLEAR button will empty the array list allowing you to start over.
 
 ![main image](/images/generic_array_list1.jpg)
 
@@ -37,3 +43,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<!-- You can use the [editor on GitHub](https://github.com/zuki07/Generic_array_list1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
