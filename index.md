@@ -7,6 +7,8 @@
   <h2>Using this GUI is as follows:</h2>
   <br>
 
+  </p>
+
   ```markdown
   1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
   ```
@@ -39,7 +41,6 @@
   ```
   ![clear image](/images/clear.jpg "Clearing everything")
 
-</p>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 <!-- You can use the [editor on GitHub](https://github.com/zuki07/Generic_array_list1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
