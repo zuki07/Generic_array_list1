@@ -22,8 +22,7 @@
 
 <h4 align="center">
     3. Either click the ADD button or press enter on the keyboard will add the value to the array list.
-<br>
-<img src=/images/added.jpg>
+<p><img src=/images/added.jpg></p>
   <!-- ![added image](/images/added.jpg "Value added") -->
 </h4>
 
