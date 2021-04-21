@@ -1,7 +1,7 @@
 
-\center ## Welcome to Generic Array List1 \center
+## Welcome to Generic Array List1
 
-![main image](/images/main_image.jpg)
+![main image <>](/images/main_image.jpg)
 
 ### Using this GUI is as follows:
 
