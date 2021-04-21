@@ -17,6 +17,7 @@ Javafx: clicking either the double, integer, or float button will define what nu
   ![add number image]({{site.url}}/images/add_number.jpg "Typing in the textbox")
 
 3. Either click the ADD button or press enter on the keyboard will add the value to the array list.
+
   ![added image](images/added.jpg "Value added")
 
 4. Repeat steps 2 and 3 until you are satisfied with how many values are in the array list.
