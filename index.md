@@ -1,10 +1,9 @@
 
 <h1 align="center">Welcome to Generic Array List1</h1>
 
-<!-- <p align="center"> -->
-<img src="images/main_image.jpg">
+<p align="center"><img src="images/main_image.jpg"></p>
 <!-- ![main image](images/main_image.jpg) -->
-<!-- </p> -->
+
 <h4 align="center">
   Javafx: clicking either the double, integer, or float button will define what
   number type is to be used. The add button will pass the typed in value to
@@ -24,13 +23,13 @@
 <h4 align="center">
     2. Click in the text box to start typing in a number.
 
-<p align="center"><img src=/images/add_number.jpg></p>
+<p align="center"><img src="images/add_number.jpg"></p>
   <!-- ![add number image](/images/add_number.jpg "Typing in the textbox") -->
 </h4>
 
 <h4 align="center">
     3. Either click the ADD button or press enter on the keyboard will add the value to the array list.
-<p align="center"><img src=/images/added.jpg></p>
+<p align="center"><img src="images/added.jpg"></p>
   <!-- ![added image](/images/added.jpg "Value added") -->
 </h4>
 
@@ -38,19 +37,19 @@
     4. Repeat steps 2 and 3 until you are satisfied with how many values are in the array list.
 <br>  
     As items are added, they will be displayed.
-<p align="center"><img src=/images/add_more_numbers.jpg></p>
+<p align="center"><img src="images/add_more_numbers.jpg"></p>
   <!-- ![add more numbers image](/images/add_more_numbers.jpg "Add more values") -->
 </h4>
 
 <h4 align="center">
     5. Press the CALCULATE button will display the largest, smallest, total and average from the array list.
-    <p align="center"><img src=/images/calculate.jpg></p>
+    <p align="center"><img src="images/calculate.jpg"></p>
     <!-- ![calculate image](/images/calculate.jpg "Calculate array list") -->
 </h4>
 
 <h4 align="center">
     6. Pressing the CLEAR button will empty the array list allowing you to start over.
-<p align="center"><img src=/images/clear.jpg></p>
+<p align="center"><img src="images/clear.jpg"></p>
     <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
 </h4>
 
