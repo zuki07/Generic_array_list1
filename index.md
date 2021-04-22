@@ -1,7 +1,9 @@
 
 <h1 align="center">Welcome to Generic Array List1</h1>
 
-<p align="center"><img src=/images/main_image.jpg></p>
+<p align="center"><img src=images/main_image.jpg>
+<!-- ![main image](/images/main_image.jpg) -->
+</p>
 <h4 align="center">
   Javafx: clicking either the double, integer, or float button will define what
   number type is to be used. The add button will pass the typed in value to
@@ -14,16 +16,14 @@
 
 <h4 align="center">
     1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
-<p align="center"><img src=/images/number_type.jpg></p>
+<p align="center"><img src=images/number_type.jpg></p>
   <!-- ![number image](/images/number_type.jpg "Selecting Number Type") -->
 </h4>
 
 <h4 align="center">
     2. Click in the text box to start typing in a number.
 
-<!-- <p align="center"> -->
-<img src=/images/add_number.jpg>
-<!-- </p> -->
+<p align="center"><img src=/images/add_number.jpg></p>
   <!-- ![add number image](/images/add_number.jpg "Typing in the textbox") -->
 </h4>
 
