@@ -12,7 +12,7 @@
 </h4>
 <br>
 
-<h2 align="center">_Using this GUI is as follows:_</h2>
+<h2 align="center" style="text-decoration: underline;">Using this GUI is as follows:</h2>
 
 <h4 align="center">
     1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
@@ -53,7 +53,7 @@
     <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
 </h4>
 
-<h2 align="center">_Errors_:</h2>
+<h2 align="center" style="text-decoration: underline;">Errors:</h2>
 
 <h4 align="center">
     1. A number type has not been selected. Please select a number type (DOUBLE, INTEGER, FLOAT).
