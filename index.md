@@ -53,6 +53,26 @@
     <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
 </h4>
 
+<h2 align="center">Errors:</h2>
+
+<h4 align="center">
+    1. A number type has not been selected. Please select a number type (DOUBLE, INTEGER, FLOAT).
+<p align="center"><img src="images/select_type.jpg"></p>
+    <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
+</h4>
+
+<h4 align="center">
+    2. No value has been typed in to add to the array list.  Please type in a value.
+<p align="center"><img src="images/empty_txt.jpg"></p>
+    <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
+</h4>
+
+<h4 align="center">
+    3. If the value does not match the selected number type, try again.  For instance, "Hello World"
+    is a string and not a DOUBLE, INTEGER, or FLOAT.
+<p align="center"><img src="images/not_correct_dat.jpg"></p>
+    <!-- ![clear image](/images/clear.jpg "Clearing everything") -->
+</h4>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 <!-- You can use the [editor on GitHub](https://github.com/zuki07/Generic_array_list1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
