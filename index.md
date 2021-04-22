@@ -21,9 +21,9 @@
 <h4 align="center">
     2. Click in the text box to start typing in a number.
 
-<p align="center">
+<!-- <p align="center"> -->
 <img src=/images/add_number.jpg>
-</p>
+<!-- </p> -->
   <!-- ![add number image](/images/add_number.jpg "Typing in the textbox") -->
 </h4>
 
