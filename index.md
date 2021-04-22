@@ -1,3 +1,4 @@
+<p align="center">
 
 # Welcome to Generic Array List1
 
@@ -27,11 +28,13 @@ Javafx: clicking either the double, integer, or float button will define what nu
 
 5. Press the CALCULATE button will display the largest, smallest, total and average from the array list.
 
-    ![calculate image](images/calculate.jpg "Calculate array list")
+  ![calculate image](images/calculate.jpg "Calculate array list")
 
 6. Pressing the CLEAR button will empty the array list allowing you to start over.
 
-    ![clear image](images/clear.jpg "Clearing everything")
+  ![clear image](images/clear.jpg "Clearing everything")
+
+</p>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 <!-- You can use the [editor on GitHub](https://github.com/zuki07/Generic_array_list1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
