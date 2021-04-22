@@ -17,7 +17,7 @@
 
 <h4 align="center">
     1. Click on either DOUBLE, INTEGER or FLOAT to select the data type.
-<p align="center"><img src=images/number_type.jpg></p>
+<p align="center"><img src="images/number_type.jpg"></p>
   <!-- ![number image](/images/number_type.jpg "Selecting Number Type") -->
 </h4>
 
