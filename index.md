@@ -2,8 +2,8 @@
 <h1 align="center">Welcome to Generic Array List1</h1>
 
 <!-- <p align="center"> -->
-<!-- <img src=images/main_image.jpg> -->
-![main image](images/main_image.jpg)
+<img src="images/main_image.jpg">
+<!-- ![main image](images/main_image.jpg) -->
 <!-- </p> -->
 <h4 align="center">
   Javafx: clicking either the double, integer, or float button will define what
