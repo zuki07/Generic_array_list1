@@ -1,10 +1,10 @@
 
 <h1 align="center">Welcome to Generic Array List1</h1>
 
-<p align="center">
+<!-- <p align="center"> -->
 <!-- <img src=images/main_image.jpg> -->
 ![main image](images/main_image.jpg)
-</p>
+<!-- </p> -->
 <h4 align="center">
   Javafx: clicking either the double, integer, or float button will define what
   number type is to be used. The add button will pass the typed in value to
